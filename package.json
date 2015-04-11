@@ -1,0 +1,21 @@
+{
+    "name": "gazira-date",
+    "version": "0.0.4",
+    "main": "index.js",
+    "description": "wonderful date tool for javascript",
+    "keywords": [
+        "date"
+    ],
+    "spm": {
+        "main": "index.js",
+        "dependencies": {
+        },
+        "devDependencies": {
+        },
+        "tests": "",
+        "ignore": [
+            "components"
+        ],
+        "buildArgs": ""
+    }
+}
